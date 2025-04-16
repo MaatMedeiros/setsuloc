@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "botplacas-456312",
+  "private_key_id": "ae156ad5db4177a82264ebe7c87083df919375b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOWV7rKpc62IDo\nVGOl/fufvgt6C/hVQ6T0a3Iqqt/tpwOZxdJ4SeCAH+leNtc/tY/Cn0kHRpKbw09G\nQggC648qT4PvEyeKL7eOeJo3/IDDW74vp3Hz9FDIiIbbcVhFl/wkiS8XFro3EMxv\nBN0ZbitD9hnm2gArxqPmi351sytGspI7LdXQCQ/mUOgnNh/uHgKVNJMpQosH9TM6\niEmXNqSLX/fRqUs6pKOLt+s9wHpK+eOEZW0d6J928ZiNDSvNmW1DZtdbwq+P9YYL\nHRfjcVjT/y5NgPoxqEr2Ewp84bF0ouFXkbT8UvI1CQwhnh03BeuIzJ27Nhn6Dn0B\nOKLGfOJ9AgMBAAECggEAGdG4bPv6CsCq1ocypcMzICCHLpj/VGnfor6r/Rc+6C1g\n57WHOYpi5x03FdUOV1goOg20tU6ZCxjj2zJpbrYbRovHAhvXM3T3hoHkKBO159vb\nnvpYaZI9Jm5g02XqCeEzyT2KER1EpR26urx0ztkIXFtXj9lgspmLCg6TvvXxeQmm\nti5vTbvinYL3QheKFweH8nPqoAqHdTbHrq25+PikZgl6xJDHulfQby4Aac8hFk5K\nI3DNLvb4KAxDPAm2kPgTXzj7m0nzP+pfaEOpUULXHXZUUYtyMqVf3dBGCxj4VrNw\n0doiiRi9FDxgRj3MQpCuIEFMaQXlz4u82qFUUgFKWQKBgQD9E24uzWvSpvTf/1qi\nh/V2uAe1U7/kMmTElZAjtZ4CvdLxedLykMsFo3sl7ggWTrepsytLosaqVCDBbAOx\nDWcYApYFSEsAR/Cu6Umt9LVqAncdDuBq30YLL62uLSarmmcpS2InyU0HhH57Ijyh\nkHvYR6YGKS8z69Q25ux7XBU72QKBgQDQu7pUgIlDmovfqdWZdl9l6Rbi4IySSOrK\nLbOgVnGW6OzxLO8F9DAdY2uGg2y4UwjXDti5mcjVJOzxn803dBbRnl3dFHT5q+ob\ncR5r8NYhDijhie8HJsDrRK2uz336GeUSOJh3DOGOqHkBcXN+/sXOU3B7MsT+YGiy\n70vF6N4pRQKBgHFwBDN2YJ5Lt/evvjCcQKq2Ur40jA79h62WXMWk4u7Xp3YV5ThV\nLquYW9rklztojWrDpOSCUgqHKyeIAx+ZolxgzF4RyYyWsou0hhIzXh3mfP3JbU56\nRis9c9xe4LaKvzMDVzv+P0jfWtJWxlalLN4FP6YDT+U2ECmL2PRykhIBAoGAT6Pg\n0w770GRuC9dz3QqyGWMWzVeZqtLRanSHfZyd2FNk3Bwl0qK5nOzrALayS5262Lsc\na6xGWTSuhv5OwWK0tiPzcj+05fH276N4VPzd5lzNskf7gEIEB3/7uKAIU91/bjVT\nztCGWvTivm83/vNcK33gg9D6IohMSkFNKuTPpvUCgYEAh3Dsx97Z+LDbAhVVN/o5\ntb5jTfEN+w4EA65LZwKj6Z28yqkk9yxjhbV6pH9T7DFIJPJ/KjsVtKHI5n33dus5\nhvJpILi1zKKVLdqORjPvwuJkF+NhbJfGrEGelPreH7EVdl85+1hui3gV450du/kS\nC8yepXRI9Z6l8GR9kFgogEo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-placas@botplacas-456312.iam.gserviceaccount.com",
+  "client_id": "117758480259983265041",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-placas%40botplacas-456312.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
